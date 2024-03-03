@@ -1,3 +1,5 @@
+# Lab 1: Affine Cipher Implementation in Python
+
 from math import gcd # Import gcd from math library
 
 def encryption(plain_text:str, a:int, b:int, alpha:list) -> list: # Defining encryption function
